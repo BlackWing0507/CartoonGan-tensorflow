@@ -72,7 +72,7 @@ dependencies:
     - tensorflowjs==1.7.4
     - termcolor==1.1.0
     - tf-estimator-nightly==2.3.0.dev2020052901 
-    - tf-nightly-2-0-preview==2.0.0.dev20190608
+    - tf-nightly==2.3.0.dev20200529 
     - werkzeug==0.15.4
     - wrapt==1.11.1
 
